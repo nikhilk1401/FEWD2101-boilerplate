@@ -1,4 +1,4 @@
 function bulb(x) {
-    // Complete the function 
+    // Iteration 2: Complete the function 
     
 }
